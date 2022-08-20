@@ -1,13 +1,17 @@
-h1{
+h1 {
     color: steelblue;
 }
-small{
+
+small {
     display: block;
 }
-h3{
+
+h3 {
     display: inline;
 }
-p{
+
+p {
+    color: brown;
     background-color: purple;
     width: 50%;
 }
