@@ -1,0 +1,13 @@
+h1{
+    color: steelblue;
+}
+small{
+    display: block;
+}
+h3{
+    display: inline;
+}
+p{
+    background-color: purple;
+    width: 50%;
+}
